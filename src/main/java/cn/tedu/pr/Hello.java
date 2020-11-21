@@ -3,10 +3,11 @@ package cn.tedu.pr;
 public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Hello git");
-		System.out.println("¸üĞÂ1");
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("Ö÷ÏßÌí¼Ó");
-		System.out.println("·ÖÖ§Ìí¼Ó");
+		System.out.println("æ›´æ–°1");
+		System.out.println("åˆ›å»ºåˆ†æ”¯");
+		System.out.println("ä¸»çº¿æ·»åŠ ");
+		System.out.println("åˆ†æ”¯æ·»åŠ ");
+		System.out.println("ç¬¬äºŒæ¬¡æäº¤ä¹‹å‰æ›´æ–°");
 	}
 
 }
